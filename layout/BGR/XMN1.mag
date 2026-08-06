@@ -1,0 +1,8 @@
+magic
+tech gf180mcuD
+timestamp 1785938305
+use nfet_03v3_HCB6XZ  nfet_03v3_HCB6XZ_0
+timestamp 1785938305
+transform 1 0 39 0 1 40
+box -45 -46 45 46
+<< end >>

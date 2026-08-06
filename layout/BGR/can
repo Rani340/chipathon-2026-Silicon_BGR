@@ -1,0 +1,107 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1785949506
+<< checkpaint >>
+rect -200 18000 2136 42838
+rect 3000 29342 5730 38782
+rect 3000 23000 7930 29342
+rect 8500 27510 10850 28126
+rect 8500 24800 13450 27510
+rect 8500 20822 13830 23838
+rect 7200 20800 13830 20822
+rect 3800 16296 6250 18260
+rect 7200 16296 9650 20800
+rect 3800 15800 14571 16296
+rect 2000 12500 4796 15296
+rect 6000 13500 14571 15800
+rect 6000 8400 8950 12510
+rect 10800 12500 13596 13500
+rect 15000 11000 17336 15768
+use XMN1  XMN1_0
+timestamp 1785938305
+transform 1 0 4830 0 1 16830
+box -30 -30 420 430
+use XMN2  XMN2_0
+timestamp 1785938384
+transform 1 0 8230 0 1 16830
+box -30 -30 420 2992
+use XMN3  XMN3_0
+timestamp 1785938495
+transform 1 0 7030 0 1 11230
+box -30 -30 920 280
+use XMN3  XMN3_1
+timestamp 1785938495
+transform 1 0 7030 0 1 9430
+box -30 -30 920 280
+use XMP1  XMP1_0
+timestamp 1785937255
+transform 1 0 9530 0 1 21830
+box -30 -30 700 1008
+use XMP1  XMP1_1
+timestamp 1785937255
+transform 1 0 10830 0 1 21830
+box -30 -30 700 1008
+use XMP1  XMP1_2
+timestamp 1785937255
+transform 1 0 12130 0 1 21830
+box -30 -30 700 1008
+use XMP4  XMP4_0
+timestamp 1785937156
+transform 1 0 10830 0 1 25830
+box -30 -30 320 680
+use XMP4  XMP4_1
+timestamp 1785937156
+transform 1 0 12130 0 1 25830
+box -30 -30 320 680
+use XMP6  XMP6_0
+timestamp 1785937972
+transform 1 0 9530 0 1 25830
+box -30 -30 320 1296
+use XMP7  XMP7_0
+timestamp 1785938118
+transform 1 0 6230 0 1 24030
+box -30 -30 700 4312
+use XMP8  XMP8_0
+timestamp 1785938204
+transform 1 0 4030 0 1 24030
+box -30 -30 700 13752
+use XQ1  XQ1_0
+timestamp 1785938630
+transform 1 0 3000 0 1 13500
+box 0 0 796 796
+use XQ1  XQ1_1
+timestamp 1785938630
+transform 1 0 11800 0 1 13500
+box 0 0 796 796
+use XQ2  XQ2_0
+timestamp 1785939094
+transform 1 0 7000 0 1 14500
+box 0 0 6571 796
+use XR1  XR1_0
+timestamp 1785940129
+transform 1 0 830 0 1 19030
+box -30 -30 306 22808
+use XR3  XR3_0
+timestamp 1785940228
+transform 1 0 16030 0 1 12030
+box -30 -30 306 2738
+<< labels >>
+rlabel space 4000 24000 4730 37782 1 XMP8
+rlabel space 6200 24000 6930 28342 1 XMP7
+rlabel space 9500 25800 9850 27126 1 XMP6
+rlabel space 10800 25800 11150 26510 1 XMP4
+rlabel space 12100 25800 12450 26510 1 XMP5
+rlabel space 9500 21800 10230 22838 1 XMP1
+rlabel space 10800 21800 11530 22838 1 XMP2
+rlabel space 12100 21800 12830 22838 1 XMP3
+rlabel space 7000 14500 13571 15296 1 XQ2
+rlabel space 3000 13500 3796 14296 1 XQ1
+rlabel space 11800 13500 12596 14296 1 XQ3
+rlabel space 4800 16800 5250 17260 1 XMN1
+rlabel space 8200 16800 8650 19822 1 XMN2
+rlabel space 7000 11200 7950 11510 1 XMN3
+rlabel space 7000 9400 7950 9710 1 XMN4
+rlabel space 800 19000 1136 41838 1 XR1
+rlabel space 16000 12000 16336 14768 1 XR3
+<< end >>

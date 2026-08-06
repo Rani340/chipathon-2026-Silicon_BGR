@@ -1,0 +1,9 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1785938384
+use nfet_03v3_QTL7S7  nfet_03v3_QTL7S7_0
+timestamp 1785938384
+transform 1 0 195 0 1 1481
+box -225 -1511 225 1511
+<< end >>

@@ -1,0 +1,8 @@
+magic
+tech gf180mcuD
+timestamp 1785938495
+use nfet_03v3_B2X8SN  nfet_03v3_B2X8SN_0
+timestamp 1785938495
+transform 1 0 89 0 1 25
+box -95 -31 95 31
+<< end >>

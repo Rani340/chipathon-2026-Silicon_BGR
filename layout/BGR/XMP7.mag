@@ -1,0 +1,9 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1785938118
+use pfet_03v3_G2YKMA  pfet_03v3_G2YKMA_0
+timestamp 1785938118
+transform 1 0 335 0 1 2141
+box -365 -2171 365 2171
+<< end >>

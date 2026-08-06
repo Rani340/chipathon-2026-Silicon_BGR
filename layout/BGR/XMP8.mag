@@ -1,0 +1,9 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1785938204
+use pfet_03v3_9XSCLX  pfet_03v3_9XSCLX_0
+timestamp 1785938204
+transform 1 0 335 0 1 6861
+box -365 -6891 365 6891
+<< end >>

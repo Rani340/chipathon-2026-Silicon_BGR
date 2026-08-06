@@ -1,0 +1,80 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1785952819
+<< metal2 >>
+rect 0 2000 22000 3500
+<< metal3 >>
+rect 0 43000 22000 44500
+use XMN1  XMN1_0
+timestamp 1785938305
+transform 1 0 2030 0 1 14530
+box -30 -30 420 430
+use XMN2  XMN2_0
+timestamp 1785938384
+transform 1 0 4530 0 1 14530
+box -30 -30 420 2992
+use XMN3  XMN3_0
+timestamp 1785938495
+transform 1 0 7530 0 1 12030
+box -30 -30 920 280
+use XMN3  XMN3_1
+timestamp 1785938495
+transform 1 0 7530 0 1 10530
+box -30 -30 920 280
+use XMP1  XMP1_0
+timestamp 1785937255
+transform 1 0 9530 0 1 25530
+box -30 -30 700 1008
+use XMP1  XMP1_1
+timestamp 1785937255
+transform 1 0 10830 0 1 25530
+box -30 -30 700 1008
+use XMP1  XMP1_2
+timestamp 1785937255
+transform 1 0 12130 0 1 25530
+box -30 -30 700 1008
+use XMP4  XMP4_0
+timestamp 1785937156
+transform 1 0 11030 0 1 30530
+box -30 -30 320 680
+use XMP4  XMP4_1
+timestamp 1785937156
+transform 1 0 12330 0 1 30530
+box -30 -30 320 680
+use XMP6  XMP6_0
+timestamp 1785937972
+transform 1 0 9530 0 1 30530
+box -30 -30 320 1296
+use XMP7  XMP7_0
+timestamp 1785938118
+transform 1 0 7530 0 1 28030
+box -30 -30 700 4312
+use XMP8  XMP8_0
+timestamp 1785938204
+transform 1 0 4530 0 1 28030
+box -30 -30 700 13752
+use XQ1  XQ1_0
+timestamp 1785938630
+transform 1 0 2500 0 1 14500
+box 0 0 796 796
+use XQ1  XQ1_1
+timestamp 1785938630
+transform 1 0 14000 0 1 14500
+box 0 0 796 796
+use XQ2  XQ2_0
+timestamp 1785939094
+transform 1 0 6000 0 1 16000
+box 0 0 6571 796
+use XR1  XR1_0
+timestamp 1785940129
+transform 1 0 30 0 1 7030
+box -30 -30 306 22808
+use XR3  XR3_0
+timestamp 1785940228
+transform 1 0 16530 0 1 15030
+box -30 -30 306 2738
+<< labels >>
+rlabel metal3 0 43000 22000 44500 1 VDD
+rlabel metal2 0 2000 22000 3500 1 GND
+<< end >>

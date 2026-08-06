@@ -1,0 +1,9 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1785937972
+use pfet_03v3_R5ZPDY  pfet_03v3_R5ZPDY_0
+timestamp 1785937972
+transform 1 0 145 0 1 633
+box -175 -663 175 663
+<< end >>
