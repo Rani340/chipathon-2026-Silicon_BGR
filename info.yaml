@@ -1,0 +1,10 @@
+# Chipathon 2026: Project configuration
+
+# Data will be pulled from the main branch.
+
+project:
+  title: "Compact Low-Power Self-Biased Bandgap Reference Generator"
+  team: "A28 SILICON_BGR"
+  discord: ""
+  description: "Compact low-power self-biased Bandgap Reference Generator with layout optimization and corner analysis."
+  lvs_config: "lvs_config.json"
