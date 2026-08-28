@@ -1,0 +1,112 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1787951909
+<< metal2 >>
+rect -1000 49500 24000 51000
+rect 500 46500 2000 48000
+rect 21500 46500 23000 48000
+rect 1500 3500 3000 5000
+rect 21500 3500 23000 5000
+rect -1000 1000 24000 2500
+use XMN1  XMN1_0
+timestamp 1785938305
+transform 1 0 2030 0 1 14530
+box -30 -30 420 430
+use XMN2  XMN2_0
+timestamp 1785938384
+transform 1 0 4530 0 1 14530
+box -30 -30 420 2992
+use XMN3  XMN3_0
+timestamp 1785938495
+transform 1 0 7530 0 1 12030
+box -30 -30 920 280
+use XMN3  XMN3_1
+timestamp 1785938495
+transform 1 0 7530 0 1 10530
+box -30 -30 920 280
+use XMP1  XMP1_0
+timestamp 1785937255
+transform 1 0 9530 0 1 25530
+box -30 -30 700 1008
+use XMP1  XMP1_1
+timestamp 1785937255
+transform 1 0 10830 0 1 25530
+box -30 -30 700 1008
+use XMP1  XMP1_2
+timestamp 1785937255
+transform 1 0 12130 0 1 25530
+box -30 -30 700 1008
+use XMP4  XMP4_0
+timestamp 1785937156
+transform 1 0 11030 0 1 30530
+box -30 -30 320 680
+use XMP4  XMP4_1
+timestamp 1785937156
+transform 1 0 12330 0 1 30530
+box -30 -30 320 680
+use XMP6  XMP6_0
+timestamp 1785937972
+transform 1 0 9530 0 1 30530
+box -30 -30 320 1296
+use XMP7  XMP7_0
+timestamp 1785938118
+transform 1 0 7530 0 1 28030
+box -30 -30 700 4312
+use XMP8  XMP8_0
+timestamp 1785938204
+transform 1 0 4530 0 1 28030
+box -30 -30 700 13752
+use XQ1  XQ1_0
+timestamp 1787940126
+transform 1 0 2500 0 1 14500
+box 0 0 796 796
+use XQ1  XQ1_1
+timestamp 1787940126
+transform 1 0 14000 0 1 14500
+box 0 0 796 796
+use XQ2  XQ2_0
+timestamp 1787940126
+transform 1 0 6000 0 1 16000
+box 0 0 6571 796
+use XR1  XR1_0
+timestamp 1785940129
+transform 1 0 30 0 1 7030
+box -30 -30 306 22808
+use XR3  XR3_0
+timestamp 1785940228
+transform 1 0 16530 0 1 15030
+box -30 -30 306 2738
+<< labels >>
+flabel metal2 21500 3500 23000 5000 0 FreeSans 4800 0 0 0 RSEL1
+port 6 nsew
+flabel metal2 1500 3500 3000 5000 0 FreeSans 4800 0 0 0 RSEL0
+port 5 nsew
+flabel space 2500 14500 3296 15296 0 FreeSans 1600 0 0 0 XMN1
+flabel space 2000 14500 2450 14960 0 FreeSans 1600 0 0 0 XQ1
+flabel space 4500 14500 4950 17522 0 FreeSans 1600 0 0 0 XMN2
+flabel space 6000 16000 12571 16796 0 FreeSans 1600 0 0 0 XQ2
+flabel space 7500 12000 8450 12310 0 FreeSans 1600 0 0 0 XMN3
+flabel space 7500 10500 8450 10810 0 FreeSans 1600 0 0 0 XMN4
+flabel space 14000 14500 14796 15296 0 FreeSans 1600 0 0 0 XQ3
+flabel space 16500 15000 16836 17768 0 FreeSans 1600 0 0 0 XR3
+flabel space 9500 25500 10230 26538 0 FreeSans 800 0 0 0 XMP1
+flabel space 10800 25500 11530 26538 0 FreeSans 800 0 0 0 XMP2
+flabel space 12100 25500 12830 26538 0 FreeSans 800 0 0 0 XMP3
+flabel space 12300 30500 12650 31210 0 FreeSans 800 0 0 0 XMP5
+flabel space 11000 30500 11350 31210 0 FreeSans 800 0 0 0 XMP4
+flabel space 9500 30500 9850 31826 0 FreeSans 800 0 0 0 XMP6
+flabel space 7500 28000 8230 32342 0 FreeSans 800 0 0 0 XMP7
+flabel space 4500 28001 5230 41781 0 FreeSans 800 0 0 0 XMP8
+flabel space 0 7000 336 29838 0 FreeSans 800 0 0 0 XR1
+flabel metal2 -1000 1000 24000 2500 0 FreeSans 4800 0 0 0 GND
+port 2 nsew
+flabel metal2 -1000 49500 24000 51000 0 FreeSans 4800 0 0 0 VDD
+port 1 nsew
+flabel metal2 500 46500 2000 48000 0 FreeSans 4800 0 0 0 I1
+port 3 nsew
+flabel metal2 21500 46500 23000 48000 0 FreeSans 4800 0 0 0 I2
+port 4 nsew
+<< properties >>
+string FIXED_BBOX -1000 1000 24000 51000
+<< end >>
