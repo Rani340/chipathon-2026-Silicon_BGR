@@ -10,23 +10,23 @@ project:
   lvs_config: "lvs_config.json"
 
   pins: 
-  - name : VDD
-    io_type : power
-
-  -name : GND
-   io_type : ground
+  - name : GND
+    io_type : ground
 
   -name : VREF
-   io_type : output  # analog
+   io_type : analog  
 
   -name : I1
-   io_type : output  # analog
+   io_type :  analog
 
   -name : I2
-   io_type : output  # analog
+   io_type : analog
 
   -name : RSEL0
-   io_type : input  # digital
+   io_type : input_cmos
 
   -name : RSEL1
-   io_type : input  # digital
+   io_type : input_cmos
+
+   -name : VDD
+   io_type : power
