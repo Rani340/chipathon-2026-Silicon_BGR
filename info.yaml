@@ -17,16 +17,16 @@ project:
    io_type : ground
 
   -name : VREF
-   io_type : output
+   io_type : output  # analog
 
   -name : I1
-   io_type : output
+   io_type : output  # analog
 
   -name : I2
-   io_type : output
+   io_type : output  # analog
 
   -name : RSEL0
-   io_type : input
+   io_type : input  # digital
 
   -name : RSEL1
-   io_type : input
+   io_type : input  # digital
