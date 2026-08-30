@@ -8,3 +8,25 @@ project:
   discord: ""
   description: "Compact low-power self-biased Bandgap Reference Generator with layout optimization and corner analysis."
   lvs_config: "lvs_config.json"
+
+  pins: 
+  - name : VDD
+    io_type : power
+
+  -name : GND
+   io_type : ground
+
+  -name : VREF
+   io_type : output
+
+  -name : I1
+   io_type : output
+
+  -name : I2
+   io_type : output
+
+  -name : RSEL0
+   io_type : input
+
+  -name : RSEL1
+   io_type : input
